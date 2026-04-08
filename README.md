@@ -8,17 +8,17 @@ Criar uma aplicação funcional para controle e gerenciamento de informações, 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- (adicione outras que estiver usando)
+- 
+- 
+- 
+- 
 
 ## 📌 Funcionalidades
 
-- Cadastro de dados
-- Organização de informações
-- Interface simples e intuitiva
-- (adicione o que tiver no projeto)
+- 
+- 
+- 
+-
 
 ## 📷 Demonstração
 
@@ -33,6 +33,12 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 - Organização de código
 - Desenvolvimento web
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Desenvolvido por [Seu Nome]
+-
+-
+-
+-
+-
+-
+
